@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/cayleygraph/quad"
-	"github.com/cayleygraph/quad/voc"
-	"github.com/cayleygraph/quad/voc/xsd"
+	"github.com/amansx/quad"
+	"github.com/amansx/quad/voc"
+	"github.com/amansx/quad/voc/xsd"
 	"github.com/piprate/json-gold/ld"
 )
 

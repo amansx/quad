@@ -11,9 +11,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/cayleygraph/quad/voc"
-	"github.com/cayleygraph/quad/voc/schema"
-	"github.com/cayleygraph/quad/voc/xsd"
+	"github.com/amansx/quad/voc"
+	"github.com/amansx/quad/voc/schema"
+	"github.com/amansx/quad/voc/xsd"
 )
 
 // IsValidValue checks if the value is valid. It returns false if the value is nil, an empty IRI or an empty BNode.

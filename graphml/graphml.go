@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/cayleygraph/quad"
+	"github.com/amansx/quad"
 )
 
 func init() {

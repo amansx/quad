@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/cayleygraph/quad"
-	"github.com/cayleygraph/quad/gml"
+	"github.com/amansx/quad"
+	"github.com/amansx/quad/gml"
 )
 
 var testData = []struct {

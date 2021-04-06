@@ -9,8 +9,8 @@ import (
 
 	"github.com/gogo/protobuf/proto"
 
-	"github.com/cayleygraph/quad"
-	"github.com/cayleygraph/quad/pquads/pio"
+	"github.com/amansx/quad"
+	"github.com/amansx/quad/pquads/pio"
 )
 
 var DefaultMaxSize = 1024 * 1024

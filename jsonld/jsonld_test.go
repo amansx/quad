@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cayleygraph/quad"
-	"github.com/cayleygraph/quad/voc/xsd"
+	"github.com/amansx/quad"
+	"github.com/amansx/quad/voc/xsd"
 	"github.com/piprate/json-gold/ld"
 	"github.com/stretchr/testify/require"
 )
