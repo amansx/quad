@@ -2,7 +2,7 @@
 package core
 
 import (
-	_ "github.com/cayleygraph/quad/voc/rdf"
-	_ "github.com/cayleygraph/quad/voc/rdfs"
-	_ "github.com/cayleygraph/quad/voc/schema"
+	_ "github.com/amansx/quad/voc/rdf"
+	_ "github.com/amansx/quad/voc/rdfs"
+	_ "github.com/amansx/quad/voc/schema"
 )

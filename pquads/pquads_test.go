@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/cayleygraph/quad"
-	"github.com/cayleygraph/quad/pquads"
+	"github.com/amansx/quad"
+	"github.com/amansx/quad/pquads"
 )
 
 var testData = []struct {

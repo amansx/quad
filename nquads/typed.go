@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"unicode"
 
-	"github.com/cayleygraph/quad"
+	"github.com/amansx/quad"
 )
 
 // line 30 "typed.go"
